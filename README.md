@@ -5,6 +5,8 @@ A curated list of Open Source Intelligence (OSINT) tools categorized for ease of
 
 #### To import the OSINT tools bookmark into your browser, follow these steps:
 
+![image](https://github.com/user-attachments/assets/ffb0bb6f-b103-454f-91cc-c6619a5648a1)
+
 ### Method to Import Bookmark
 
 1. **Download The [Bookmark File](https://github.com/neospl0it/osint-bookmark/blob/main/osint.html):**
