@@ -1,17 +1,7 @@
-# osint-bookmark
 
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-<!-- This is an automatically generated file.
-     It will be read and overwritten.
-     DO NOT EDIT! -->
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
-<H1>Bookmarks</H1>
+
+<H1>OSINT TOOLS</H1>
 <DL><p>
-    <DT><H3 ADD_DATE="1714964017" LAST_MODIFIED="0" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
-    <DL><p>
-        <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="1719255551">OSINT Bookmarks</H3>
-        <DL><p>
             <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="0">Company</H3>
             <DL><p>
                 <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="0">Country Specific</H3>
