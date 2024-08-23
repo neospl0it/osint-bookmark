@@ -2,6 +2,41 @@
 
 A curated list of Open Source Intelligence (OSINT) tools categorized for ease of use. This collection covers various domains, including company research, internet scanning, DNS, and Whois lookups.
 
+
+#### To import the OSINT tools bookmark into your browser, follow these steps:
+
+### Method to Import Bookmark
+
+1. **Download The [Bookmark File](https://github.com/neospl0it/osint-bookmark/blob/main/osint.html):**
+
+2. **Importing in Google Chrome:**
+   - Open Chrome and click on the three vertical dots in the top-right corner.
+   - Navigate to `Bookmarks` > `Import bookmarks and settings`.
+   - In the pop-up window, select `Bookmarks HTML File` from the dropdown menu.
+   - Click `Choose File`, then locate and select the `osint_bookmarks.html` file.
+   - Click `Open` to import the bookmarks.
+
+3. **Importing in Mozilla Firefox:**
+   - Click the `Library` icon (bookshelf) in the toolbar.
+   - Select `Bookmarks` > `Manage bookmarks`.
+   - In the Library window, click on `Import and Backup` > `Import Bookmarks from HTML`.
+   - Browse and select the `osint_bookmarks.html` file.
+   - Click `Open` to import the bookmarks.
+
+4. **Importing in Microsoft Edge:**
+   - Click on the three horizontal dots in the top-right corner.
+   - Navigate to `Favorites` > `Manage favorites`.
+   - Click on the `Import or export` button.
+   - Under `Import your info`, select `Favorites or bookmarks HTML file`.
+   - Click `Choose file`, select the `osint_bookmarks.html` file, and then click `Open`.
+
+5. **Importing in Safari:**
+   - Open Safari and click on `File` in the menu bar.
+   - Select `Import From` > `Bookmarks HTML File`.
+   - Locate the `osint_bookmarks.html` file and click `Import`.
+
+Once imported, the bookmarks should appear in your browser's bookmarks bar or menu under a folder, typically named "Imported" or the title of the HTML file.
+
 ### Table of Contents
 
 <DL><p>
