@@ -1,6 +1,9 @@
+# OSINT Tools Directory
 
+A curated list of Open Source Intelligence (OSINT) tools categorized for ease of use. This collection covers various domains, including company research, internet scanning, DNS, and Whois lookups.
 
-<H1>OSINT TOOLS</H1>
+### Table of Contents
+
 <DL><p>
             <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="0">Company</H3>
             <DL><p>
