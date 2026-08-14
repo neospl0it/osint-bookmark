@@ -253,6 +253,7 @@ Once imported, the bookmarks should appear in your browser's bookmarks bar or me
                     <DT><A HREF="http://backtweets.com/" ADD_DATE="1712468254">Backtweets</A>
                     <DT><A HREF="https://tinfoleak.com/favicon/xandroid-icon-192x192.png.pagespeed.ic.SrzO0FouKa.jpg" ADD_DATE="1712468254">https://tinfoleak.com</A>
                     <DT><A HREF="http://search.twitter.com/" ADD_DATE="1712468254" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAAB1ElEQVQokZVSO2uUURScufd++2IVVBJTuPhqtItFGtNaGLSysPc3iD/AykKwF2y2UyR/QggiSgiExQU32EWXiEs27vPe74zF3V1snWo4Z4qZc4at9hD/gyApMxJLCgICHEnAAEAAJDAPSQJwoCMBkBToHaelzqIkEDSBpEgnSRLJs6i5KThKInU21/VzvLvhAY2TCgdJkEI2M016cqv4cJw6A1uv80/E45vh5XatWfBzv+wOytedeW+oiofLZiZJj26E3Z3G/VYYR0ySnt2pNgs3L7V1OWyt+9MIRwAIAAQVnu+P4qvt+u5O4+CkPPxtl2o0CUBpeteLvVPbaLhk2RJgwu0LnkQssbnmN9cCAJk50jv2J6rkDKDLN6s6tLvz7sBIpFLJJEEAiVG0jz/LeqABpBxJE+oBnYHtn6TgSNITgqLgyXY3Hg2t5ilBooMAwARPPt2bvunMkhANBKre7f2IL/Zn5yuLPCSCIAAGPLjqH14r7l0JVU8A46i332bPv8ySoeKRH7e4Ui7CwS+rh/R9aACOR/rUT18H1iy4Uuf/stUeSiARTaOYd3BALaAeaELeZvWifAQkFI4Xa+CylSaUtiijln4AhAWTJFkO9A9WuhX+AoTtDT6fh+1wAAAAAElFTkSuQmCC">Twitter Search</A>
+                    <DT><A HREF="https://github.com/Xquik-dev/x-twitter-scraper" ADD_DATE="1712468254">Xquik</A>
                 </DL><p>
                 <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="0">Facebook</H3>
                 <DL><p>
