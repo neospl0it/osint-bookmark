@@ -52,6 +52,7 @@ Once imported, the bookmarks should appear in your browser's bookmarks bar or me
                     <DT><A HREF="https://en.wikipedia.org/wiki/List_of_company_registers" ADD_DATE="1712468250">Wikipedia National Company Registers</A>
                 </DL><p>
                 <DT><A HREF="https://www.crunchbase.com/" ADD_DATE="1712468250">Crunchbase</A>
+                <DT><A HREF="https://datacircle.dev" ADD_DATE="1763359200">Datacircle</A>
                 <DT><A HREF="http://www.ezilon.com/" ADD_DATE="1712468250">Ezilion</A>
                 <DT><A HREF="https://www.glassdoor.com/" ADD_DATE="1712468250">Glassdoor</A>
                 <DT><A HREF="http://www.guidestar.org/" ADD_DATE="1712468250">Guidestar</A>
