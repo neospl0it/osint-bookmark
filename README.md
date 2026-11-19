@@ -102,10 +102,12 @@ Once imported, the bookmarks should appear in your browser's bookmarks bar or me
             </DL><p>
             <DT><H3 ADD_DATE="1719255551" LAST_MODIFIED="0">Email Search</H3>
             <DL><p>
+                <DT><A HREF="https://breach.house/" ADD_DATE="1712468252">Breach House</A>
                 <DT><A HREF="https://dehashed.com/" ADD_DATE="1712468252">Dehashed</A>
                 <DT><A HREF="https://tools.verifyemailaddress.io/" ADD_DATE="1712468252">EmailHippo</A>
                 <DT><A HREF="https://chema.ga/emailvalidator/index.php" ADD_DATE="1712468252">Email Validator</A>
                 <DT><A HREF="https://haveibeenpwned.com/" ADD_DATE="1712468252">Have I Been Pwned</A>
+                <DT><A HREF="https://haveibeenransom.com/" ADD_DATE="1712468252">Have I Been Ransomed?</A>
                 <DT><A HREF="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools" ADD_DATE="1712468252">Hudson Rock - Cybercrime Intelligence</A>
                 <DT><A HREF="https://hunter.io/" ADD_DATE="1712468252">Hunter.io</A>
                 <DT><A HREF="https://pipl.com/" ADD_DATE="1712468253" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAABOklEQVQokXWSO07DQBBA36zXsUMkIhAIwRHogmgQFbfgCFAhjsEF6KGlQLSIhh4amoi0FFSJIqSAY2d3KJLYaxNG2+zMvPnL8a0CqoigSikizPXhF7Dlf84YIRQFr5W1AsoM4ykioCCgtCJSu2BqGQDnSS3nB4wzVDncJXPc9ekPaQdMVZL3pJazXhUMONrj9IHvgmipNI2Shj84z/UrF48Uju0O+1tksyqKaQzBCEb4mvL8Qe7wylpc68GEMxFZPCP0dmhFGGGSY4KJ14BSNlKuTogjxhnvQ1JbAXYl4JSXTzbb3LwxypZVhcA8gCrO4zyTgssnugmOZg/Bpj0idBMiQ2pJLJ2Ymf6/aSPkjvsBnZjBiNgsvam8AWkc36TAK6mlFaEKQv24/hzferJIGNa9Aiib9oFtZYZfW+qWPp8U5qYAAAAASUVORK5CYII=">Pipl</A>
